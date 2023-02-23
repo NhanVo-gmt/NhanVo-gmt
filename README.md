@@ -13,7 +13,7 @@
     👀 I’m interested in game development
   </li>
   <li>
-    🌱 I’m currently learning __c# and unity__
+    🌱 I’m currently learning <strong>c# and unity</strong>
   </li>
   <li>
     💞️ I’m looking to collaborate on developing a indie game, or in a big game industry.
