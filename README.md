@@ -6,6 +6,8 @@
   A passionate Game Developer from Viet Nam
 </h3>
 
+![gameImage][gameImage.url]
+
 <ul>
   <li>
     👀 I’m interested in game development
@@ -44,6 +46,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- Mardown links -->
+[gameImage.url]: gameImage.png
+
 [FaceBook.img]: https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white
 [FaceBook-url]: https://www.facebook.com/vovanthanhnhan0606/
 [Linkedln.img]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
