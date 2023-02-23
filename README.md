@@ -18,9 +18,6 @@
   <li>
     💞️ I’m looking to collaborate on developing a indie game, or in a big game industry.
   </li>
-  <li>
-    📫 How to reach me : via facebook (https://www.facebook.com/profile.php?id=100005954769482) 
-  </li>
 </ul>
 
 ### Connect with me
