@@ -3,7 +3,7 @@
 </h1> 
 
 <h3 align="center">
-  A passionate Game Developer from Viet Nam
+  ✨ A passionate Game Developer from Viet Nam ✨
 </h3>
 
 ![gameImage][gameImage.url]
